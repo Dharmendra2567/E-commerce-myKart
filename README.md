@@ -117,27 +117,27 @@ REACT_APP_BACKEND_URL ="http://localhost:5000/api"
 ## Preview
 
 ## Home Page
-<img src="public/projectImage/homePage.png" alt="product" >
+<img src="projectImage/homePage.png" alt="product" >
 
 ## Product Page
-<img src="public/projectImage/AllProducts.png" alt="product" >
+<img src="projectImage/AllProducts.png" alt="product" >
 
 ## Cart Items
-<img src="public/projectImage/cartItems.png" alt="product" >
+<img src="projectImage/cartItems.png" alt="product" >
 
 ## Register Page
-<img src="public/projectImage/Registration.png" alt="product" >
+<img src="projectImage/Registration.png" alt="product" >
 
 
 ## CheckOut Page
-<img src="public/projectImage/checkoutPage.png" alt="product" >
+<img src="projectImage/checkoutPage.png" alt="product" >
 
 ## Admin Dashboard
-<img src="public/projectImage/productList.png" alt="product" >
+<img src="projectImage/productList.png" alt="product" >
 
 
 ## Add Product Page
-<img src="public/projectImage/addProduct.png" alt="product" >
+<img src="projectImage/addProduct.png" alt="product" >
 
 ## Contributing
 
